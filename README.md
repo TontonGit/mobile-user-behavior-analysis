@@ -33,14 +33,14 @@ The analysis explores relationships between application usage time, screen-on ac
 This project aims to answer the following questions:
   - How do mobile phone users behave in terms of application usage, screen activity, battery consumption, and data utilization?
   - Do users behave differently across mobile device models?
-  - Is there statistically significant difference in battery drain between Android and iOS operating systems?
+  - Is there a statistically significant difference in battery drain between Android and iOS operating systems?
   - Does data usage significantly differ across mobile device models?
 
 ---
 
 ## Dataset Information
 
-The dataset contains behaviroal information from 700 mobile pnone users and includes:
+The dataset contains behavioral information from 700 mobile phone users and includes:
 - Device model
 - operating system
 - App usage time
@@ -61,7 +61,7 @@ The dataset contains behaviroal information from 700 mobile pnone users and incl
 4. Descriptive Statistics
 5. Correlation Analysis
 6. Hypothesis Testing
-7. Condlusion
+7. Conclusion
 
 ---
 
@@ -81,7 +81,7 @@ The dataset contains behaviroal information from 700 mobile pnone users and incl
 
 ### Independent Two-Sample t-test
 
-Use to compare average battery drain between Android and iOS operating systems.
+Used to compare average battery drain between Android and iOS operating systems.
 
 ### One-Way ANOVA
 
@@ -97,11 +97,11 @@ Used to evaluate differences in mean data usage across the five mobile device mo
 
 ## Visualizations
 
-The project includes several visualizations such as :
+The project includes several visualizations such as:
  - Battery drain distribution histogram
  - Battery drain by device model
  - Battery drain by gender
- - Mobile devie market share pie chart
+ - Mobile device market share pie chart
  - Correlation heatmap
  - Pairplot analysis
 
@@ -109,8 +109,8 @@ The project includes several visualizations such as :
 
 ## Key Findings
 - Strong positive relationships were identified between app usage time, screen-on time, battery drain, and data usage.
-- iOS devices exhibited slighty higher average battery drain than Android devices.
-- Statistical testing showed no significant difference in batttery drain between Android and iOS operation systems.
+- iOS devices exhibited slightly higher average battery drain than Android devices.
+- Statistical testing showed no significant difference in battery drain between Android and iOS operating systems.
 - ANOVA results indicated no statistically significant difference in mean data usage across the five mobile device models.
 - User activity patterns appear to have a stronger influence on resource consumption than operating system or device model alone.
 
@@ -119,18 +119,37 @@ The project includes several visualizations such as :
 ## Reproducibility
 
 To run this  project locally:
-**git clone https://github.com/TontonGit/mobile-user-behavior-analysis.git**
+```
+git clone https://github.com/TontonGit/mobile-user-behavior-analysis.git
+```
 
 Install required libraries:
-
-**pip install pandas numpy matplotlib seaborn scipy**
+```
+pip install pandas numpy matplotlib seaborn scipy
+```
 
 Run the notebook from the **notebooks/** directory.
 
 ---
+
+## Project Structure
+
+```text
+mobile-user-behavior-analysis/
+│
+├── data/
+├── images/
+├── notebooks/
+├── src/
+└── README.md
+```
+---
+
 ## Author
 
+
 Akowe Atty
+
 
 
 
