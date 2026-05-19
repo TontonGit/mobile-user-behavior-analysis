@@ -76,6 +76,67 @@ The dataset contains behaviroal information from 700 mobile pnone users and incl
 - Jupyter Notebook
 - Git & GitHub
 
+--
+## Statistical Methods
+
+### Independent Two-Sample t-test
+
+Use to compare average battery drain between Android and iOS operating systems.
+
+### One-Way ANOVA
+
+Used to evaluate differences in mean data usage across the five mobile device models.
+
+### Assumption Checks
+- Histogram inspection
+- Q-Q plots
+- Shapiro-Wilk normality test
+- Levene's test for homogeneity of variance
+
+---
+
+## Visualizations
+
+The project includes several visualizations such as :
+ - Battery drain distribution histogram
+ - Battery drain by device model
+ - Battery drain by gender
+ - Mobile devie market share pie chart
+ - Correlation heatmap
+ - Pairplot analysis
+
+---
+
+## Key Findings
+- Strong positive relationships were identified between app usage time, screen-on time, battery drain, and data usage.
+- iOS devices exhibited slighty higher average battery drain than Android devices.
+- Statistical testing showed no significant difference in batttery drain between Android and iOS operation systems.
+- ANOVA results indicated no statistically significant difference in mean data usage across the five mobile device models.
+- User activity patterns appear to have a stronger influence on resource consumption than operating system or device model alone.
+
+---
+
+## Reproducibility
+
+To run this  project locally:
+**git clone https://github.com/TontonGit/mobile-user-behavior-analysis.git**
+
+Install required libraries:
+
+**pip install pandas numpy matplotlib seaborn scipy**
+
+Run the notebook from the **notebooks/** directory.
+
+---
+## Author
+
+Akowe Atty
+
+
+
+
+
+
 
 
 
