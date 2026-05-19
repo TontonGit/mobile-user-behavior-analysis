@@ -22,4 +22,8 @@ The heatmap highlights strong positive relationships between app usage time, scr
 
 ## Exploratory Data Analysis & Statistical Inference
 
+This project applies Exploratory Data Analysis (EDA) and statistical inference techniques to investigate mobile user behavior patterns across Android and iOS operating systems and five mobile device models.  
+
+The analysis explores relationships between application usage time, screen-on activity, battery consumption, data usage, and number of installed applications.  Inferential statistical techniques including the independent t-test and one-way ANOVA are utilized to determine whether observed differences between user groups are statistically significant.  
+
 
