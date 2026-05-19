@@ -27,6 +27,7 @@ This project applies Exploratory Data Analysis (EDA) and statistical inference t
 The analysis explores relationships between application usage time, screen-on activity, battery consumption, data usage, and number of installed applications.  Inferential statistical techniques including the independent t-test and one-way ANOVA are utilized to determine whether observed differences between user groups are statistically significant. 
 
 ---
+
 ## Project Objectives
 
 This project aims to answer the following questions:
@@ -34,6 +35,25 @@ This project aims to answer the following questions:
   - Do users behave differently across mobile device models?
   - Is there statistically significant difference in battery drain between Android and iOS operating systems?
   - Does data usage significantly differ across mobile device models?
+
+---
+
+## Dataset Information
+
+The dataset contains behaviroal information from 700 mobile pnone users and includes:
+- Device model
+- operating system
+- App usage time
+- Screen-on time
+- Number of installed applications
+- Data usage
+- Age
+- Gender
+- User behavior classification
+
+---
+
+
 
 
 
