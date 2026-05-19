@@ -1,7 +1,6 @@
 # Mobile User Behavior Analysis
 
-## key Visualizations
-
+## Key Visualizations
 ### User Behavior Class
 
 ![User Behavior Class](images/user_behavior_class.png)
