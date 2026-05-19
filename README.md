@@ -53,6 +53,29 @@ The dataset contains behaviroal information from 700 mobile pnone users and incl
 
 ---
 
+## Analytical Workflow
+
+1. Data Understanding
+2. Data Cleaning and Preparation
+3. Distribution Analysis of Individual Features
+4. Descriptive Statistics
+5. Correlation Analysis
+6. Hypothesis Testing
+7. Condlusion
+
+---
+
+## Technologies Used
+
+- Python
+- pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+- Jupyter Notebook
+- Git & GitHub
+
 
 
 
