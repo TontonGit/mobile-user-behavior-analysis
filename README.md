@@ -6,9 +6,12 @@
 
 ![User Behavior Class](images/user_behavior_class.png)
 
+
 This visualization shows that mobile user behavior classes are strongly associated with the amount of time users spend
 on their mobile devices.  Higher behavior classes exhibit greater overall app usage activity.
+
 ---
+
 ### Correlation Heatmap
 
 ![Correlation Heatmap](images/correlation_heatmap.png)
