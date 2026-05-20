@@ -1,5 +1,10 @@
 # Mobile User Behavior Analysis
 
+```
+Python | EDA | Statistical Inference | Data Visualization
+```
+
+
 ## Key Visualizations
 
 ### User Behavior Class
@@ -42,7 +47,7 @@ This project aims to answer the following questions:
 
 The dataset contains behavioral information from 700 mobile phone users and includes:
 - Device model
-- operating system
+- Operating system
 - App usage time
 - Screen-on time
 - Number of installed applications
@@ -118,7 +123,7 @@ The project includes several visualizations such as:
 
 ## Reproducibility
 
-To run this  project locally:
+To run this project locally:
 ```
 git clone https://github.com/TontonGit/mobile-user-behavior-analysis.git
 ```
