@@ -1,9 +1,9 @@
 # Mobile User Behavior Analysis
 
-```
-Python | EDA | Statistical Inference | Data Visualization
-```
 
+Python | EDA | Statistical Inference | Data Visualization
+
+---
 
 ## Key Visualizations
 
@@ -13,7 +13,7 @@ Python | EDA | Statistical Inference | Data Visualization
 
 
 This visualization shows that mobile user behavior classes are strongly associated with the amount of time users spend
-on their mobile devices.  Higher behavior classes exhibit greater overall app usage activity.
+on their mobile devices. Higher behavior classes exhibit greater overall app usage activity.
 
 ---
 
@@ -29,7 +29,7 @@ The heatmap highlights strong positive relationships between app usage time, scr
 
 This project applies Exploratory Data Analysis (EDA) and statistical inference techniques to investigate mobile user behavior patterns across Android and iOS operating systems and five mobile device models.  
 
-The analysis explores relationships between application usage time, screen-on activity, battery consumption, data usage, and number of installed applications.  Inferential statistical techniques including the independent t-test and one-way ANOVA are utilized to determine whether observed differences between user groups are statistically significant. 
+The analysis explores relationships between application usage time, screen-on activity, battery consumption, data usage, and number of installed applications. Inferential statistical techniques including the independent t-test and one-way ANOVA are utilized to determine whether observed differences between user groups are statistically significant. 
 
 ---
 
@@ -82,6 +82,7 @@ The dataset contains behavioral information from 700 mobile phone users and incl
 - Git & GitHub
 
 ---
+
 ## Statistical Methods
 
 ### Independent Two-Sample t-test
