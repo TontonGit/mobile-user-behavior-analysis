@@ -141,6 +141,12 @@ The project includes several visualizations such as:
 
 ---
 
+## Future Improvements
+
+- Build predictive models for user behavior classification
+- Explore dashboard deployment in a future version 
+- Perform user segmentation using clustering
+
 ## Reproducibility
 
 To run this project locally:
@@ -150,7 +156,7 @@ git clone https://github.com/TontonGit/mobile-user-behavior-analysis.git
 
 Install required libraries:
 ```
-pip install pandas numpy matplotlib seaborn scipy
+pip install -r requirements.txt
 ```
 
 Run the notebook from the **notebooks/** directory.
