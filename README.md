@@ -13,8 +13,6 @@
   - App usage
   - Data consumption
   - Operating system comparisons
-    
-Python | EDA | Statistical Inference | Data Visualization
 
 ---
 
