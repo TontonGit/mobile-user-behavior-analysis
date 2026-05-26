@@ -43,6 +43,23 @@ This project aims to answer the following questions:
 
 ---
 
+## Key Findings
+
+- Android and iOS users showed no statistically significant difference in battery drain.
+- Device model did not strongly predict data consumption behavior.
+- Screen time and app usage were positively correlated.
+- User behavior patterns were more influential than device type alone.
+
+---
+
+## Business Relevance
+
+Insights from this analysis could help:
+- mobile manufacturers optimize battery performance
+- app developers understand engagement behavior
+- telecom providers analyze data consumption trends
+- UX teams improve mobile usage experiences
+
 ## Dataset Information
 
 The dataset contains behavioral information from 700 mobile phone users and includes:
@@ -110,15 +127,6 @@ The project includes several visualizations such as:
  - Mobile device market share pie chart
  - Correlation heatmap
  - Pairplot analysis
-
----
-
-## Key Findings
-- Strong positive relationships were identified between app usage time, screen-on time, battery drain, and data usage.
-- iOS devices exhibited slightly higher average battery drain than Android devices.
-- Statistical testing showed no significant difference in battery drain between Android and iOS operating systems.
-- ANOVA results indicated no statistically significant difference in mean data usage across the five mobile device models.
-- User activity patterns appear to have a stronger influence on resource consumption than operating system or device model alone.
 
 ---
 
