@@ -38,7 +38,7 @@ The heatmap highlights strong positive relationships between app usage time, scr
 
 ## Exploratory Data Analysis & Statistical Inference
 
-This project analyzes behavioral data from 700 mobile users to explore relationships between app usage, screen time, battery drain, and data consumption across different device models and operating systems.
+This project analyzes behavioral data from 700 mobile users to analyze relationships between app usage, screen time, battery drain, and data consumption across different device models and operating systems.
 
 Using exploratory data analysis and hypothesis testing, the project identifies usage patterns and evaluates whether operating systems or device models significantly influence user behavior metrics.
 
