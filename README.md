@@ -1,6 +1,19 @@
 # Mobile User Behavior Analysis
 
+---
 
+## Project Snapshot
+
+- Dataset Size: 700 mobile users
+- Analysis Type: EDA + Statistical Inference
+- Tools: Python, Pandas, Seaborn, SciPy
+- Focus Areas:
+  - Screen time
+  - Battery drain
+  - App usage
+  - Data consumption
+  - Operating system comparisons
+    
 Python | EDA | Statistical Inference | Data Visualization
 
 ---
